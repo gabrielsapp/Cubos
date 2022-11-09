@@ -29,6 +29,7 @@ $$ I = \frac{76}{1.79^2} $$
 
 $$ I = 23,7 $$
 
+
 O seu programa deverá imprimir o IMC de alguem com base no input recebido.
 
 ---
